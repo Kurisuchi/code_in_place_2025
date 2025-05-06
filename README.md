@@ -42,6 +42,7 @@ __Challenges:__
 - Spread Beepers
 
 __Examples:__
+
 *Art of Problem Solving*
 - Mountain Karel
 - Rhoomba Karel
@@ -62,6 +63,7 @@ __Challenges:__
 - Haiku Generator
 
 __Examples:__
+
 *Print and Input*
 - Agreement Bot
 - Hello World
