@@ -12,6 +12,7 @@ __Challenges:__
 - Hospital Karel
 
 __Examples:__
+
 *Welcome To Karel*
 - Step Up
 - Move Beeper
